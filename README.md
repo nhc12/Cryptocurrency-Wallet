@@ -7,11 +7,17 @@
     * created a variable named account
 3. Signed and Executed a Payment Transaction: The application allows customers to select a fintech professional from the application interface’s drop-down menu, and then input the amount of time for which they’ll hire the worker. 
 4. Inspected the transaction:
-    * selected a candidate to hire from the drop-down menu. Then, entered the number of hours that he is required for
-    * Send Transaction button to sign and send the transaction with your Ethereum account information
-![image](https://github.com/nhc12/Blockchain/blob/main/PyChain%20Screenshot1.jpg)
+    * Selected a candidate to hire from the drop-down menu. Then, entered the number of hours that he is required for
+    * Tested to sign and sent the transaction with own Ethereum account information.  Screenshot of address balance and history on Ganache:
+![image](https://github.com/nhc12/Cryptocurrency-Wallet/blob/main/Streamlit/address%20balance%20and%20history%20on%20Ganache.jpg)
+    * screenshot of the transaction details on Ganache:
+![image](https://github.com/nhc12/Cryptocurrency-Wallet/blob/main/Streamlit/transaction%20details%20on%20Ganache.jpg)  
+    * screenshot of transaction to address: 
+![image](https://github.com/nhc12/Cryptocurrency-Wallet/blob/main/Streamlit/recipient%E2%80%99s%20address%20balance%20and%20history%20from%20your%20Ganache%20application.jpg)     
 5. Attachmnents:
     * Starter Code (py file)
+    * crypto_wallet.py
     * Python file for Streamlit deployment
-    * Screen recording of streamlit deployment
-    * Screenshot of Streamlit deployment:
+    * Screenshot of Ganache
+    * env file
+    * Fintech professionals images
